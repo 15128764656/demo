@@ -37,11 +37,7 @@ public class MyTheradPoolExecutor {
 		executor.shutdown();													
 	}
 }
-//巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉
-//巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉
-//巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉
-//巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉
-//巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉
+
 class myRunnable implements Runnable{
 	int index;
 	
